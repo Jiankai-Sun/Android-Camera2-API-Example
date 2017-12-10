@@ -9,5 +9,6 @@ Android Camera2 API Example Tutorial
 <!-- ![screenshot](fig/screenshot.jpg) -->
 <img src="fig/screenshot.jpg" width = "450" alt="screenshot" align=center />
 ## Acknowledgement
+
 [ANDROID CAMERA2 API EXAMPLE TUTORIAL](https://inducesmile.com/android/android-camera2-api-example-tutorial/)
 
