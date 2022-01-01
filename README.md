@@ -5,9 +5,9 @@ Android Camera2 API Example Tutorial
 - Android Studio 3.0.1
 - Min SDK >= Android SDK 21
 
-## Screenshot
+<!-- ## Screenshot -->
 <!-- ![screenshot](fig/screenshot.jpg) -->
-<img src="fig/screenshot.jpg" width = "450" alt="screenshot" align=center />
+<!-- <img src="fig/screenshot.jpg" width = "450" alt="screenshot" align=center /> -->
 
 ## Acknowledgement
 
